@@ -15,7 +15,7 @@ start_new_round(): Starts a new round by clearing player input and preparing to 
 display_sequence(): Shows the current sequence to the player.
 start_game(): Initializes the game, clearing any existing sequences and starting a new round.
 
-# How to Launch the Game
+# How to launch the Game
 Prerequisites:
 - Ensure you have Python installed on your system. If not, download and install Python from the official website.
 - Ensure you have the tkinter library available. Most standard Python installations come with tkinter included. However, if you find it's missing, you can install it using your package manager (e.g., apt-get on Debian-based systems, brew on macOS, etc.).
