@@ -26,8 +26,8 @@ Download the Game:
 Run the Game:
 - Navigate to the directory containing the simon-says.py script using your terminal or command prompt.
 - Launch the game using the following command:
-
-python simon-says.py 
+  ```bash
+  python simon-says.py 
 
 (Note: Depending on your system setup, you might need to use python3 instead of python.)
 
