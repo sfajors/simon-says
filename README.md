@@ -16,14 +16,14 @@ display_sequence(): Shows the current sequence to the player.
 start_game(): Initializes the game, clearing any existing sequences and starting a new round.
 
 # How to launch the Game
-Prerequisites:
+## Prerequisites:
 - Ensure you have Python installed on your system. If not, download and install Python from the official website.
 - Ensure you have the tkinter library available. Most standard Python installations come with tkinter included. However, if you find it's missing, you can install it using your package manager (e.g., apt-get on Debian-based systems, brew on macOS, etc.).
 
-Download the Game:
+## Download the Game:
 - If you haven't already, download the simon-says.py script from the repository.
 
-Run the Game:
+## Run the Game:
 - Navigate to the directory containing the simon-says.py script using your terminal or command prompt.
 - Launch the game using the following command:
   ```bash
@@ -31,6 +31,9 @@ Run the Game:
 
 (Note: Depending on your system setup, you might need to use python3 instead of python.)
 
-Play the Game:
+## Play the Game:
 - Once launched, you should see the game's user interface with various colored buttons.
 - Click the "Start" button to begin playing. Follow the on-screen instructions and prompts.
+
+# License
+MIT License
